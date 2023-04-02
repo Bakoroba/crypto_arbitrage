@@ -6,11 +6,11 @@ The tasks consist of sorting through historical trade data for Bitcoin on two ex
 
 
 User stories:
-- A company's qauntitative trading department executes algorthmic trades by buying and selling Bitcoin on Bitcoin and Coinbase exchanges
+- A  qauntitative analyst executes automated algorthmic trades by buying and selling Bitcoin on Bitcoin and Coinbase exchanges
 
-- The quant trader is tasked of exploting arbitrage opportunities of Bitcoin on Bitcoin and Coinbase exchanges
+- The analyst exploits arbitrage opportunities of Bitcoin on two exchanges manily Bitcoin and Coinbase exchanges
 
-- The trader determines the arbirtage opportunities in the early date of the dataset, the middle date of the dataset and the late date of the dataset to find the potential arbitrage profits generated with supporting data.
+- The analyst determines the arbirtage opportunities in the early date of the dataset, the middle date of the dataset and the late date of the dataset to find the potential arbitrage profits generated with supporting data.
 
 ---
 
@@ -24,8 +24,8 @@ The technologies used are:
 5. Software modules
     - crypto_arbitrage.ipnb
 6. Maket Data
-    - Bitcoin market data : bitstmap.csv
-    - Coinbase market data " coinbase.csv
+    - Bitcoin market data on Bitcoin exchange: bitstmap.csv
+    - Bitcoin market data on Coinbase exchange: coinbase.csv
 
 ---
 
@@ -44,7 +44,7 @@ To run the app use Jupyler lab dev environment
 
 ## Contributors
 
-The project is based on the template of the FinTech Bootcamp Module 3 Challenge.
+The project is based on the template of the Columbia University FinTech Bootcamp Module 3 Challenge.
 
 ---
 
